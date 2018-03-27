@@ -1,0 +1,14 @@
+a = 3
+id(a) restituisce l'indirizzo di memoria della variabile
+type(a) -> restituisce <class 'int'>, cioè di classe INT
+una variabile è un puntatore
+se cambio il valore da int a str, cambia anche l'indirizzo di memoria della variabile
+
+dir(a) ritorna una lista in ordine alfabetico dei nomi associati all'oggetto che specifico
+in sostanza i metodi che si applicano ad a
+
+provare dir(a) con a =5 || a = "ciao"
+
+ _ è una variabile, si usa quando la variabile non è significativa, tipo l'indice di un ciclo quando non sarà mai usato se non come indice
+
+
